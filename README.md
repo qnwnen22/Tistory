@@ -1,3 +1,3 @@
 # Tistory Open API Library
 
-1. �̿ϼ�
+1. 미완성
